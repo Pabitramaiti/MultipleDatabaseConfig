@@ -1,0 +1,4 @@
+getOrderById: http://localhost:8081/multidbconn/api/getorderdetails?id=17095
+getContactDetailsById: http://localhost:8081/multidbconn/api/getcontactdetails?id=100
+getWfsReconData: http://localhost:8081/multidbconn/api/getWfsReconData
+getReconDataAccountNumberList : http://localhost:8081/multidbconn/api/getExtractedData
